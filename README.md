@@ -38,5 +38,5 @@ Maven instalado.
 PostgreSQL 16 instalado y corriendo.
 Un cliente HTTP como Postman o Insomnia para probar los endpoints.
 1. Clonar el Repositorio
-git clone https://github.com/javierggez/apitareas.git
+git clone https://github.com/javierggez/api-tareas.git
 cd apitareas
